@@ -97,4 +97,6 @@ footer p{
     font-size: smaller;
     line-height: 20px;
     letter-spacing: 2px;
+    width: 70%;
+    margin: 0 auto;
 }
